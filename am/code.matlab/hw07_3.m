@@ -147,7 +147,7 @@ set(gca,'Ytick',-1.2 : .4 : 1.2)
 grid on
 xlabel('Time (t) [secs.]')
 ylabel('$\mathbf{y_c(t)}$', 'interpreter', 'latex')
-title("(C-ii)", 'Units', 'normalized', 'Position', [0.5, -0.55, 0])
+title("(c-ii)", 'Units', 'normalized', 'Position', [0.5, -0.55, 0])
 
 % --- (d) ---
 err = immse(x_c_0, y_c);
@@ -219,7 +219,7 @@ set(gca,'Xtick',0 : 0.2 : 1)
 set(gca,'Ytick',0 :2 : L)
 xlabel('Time (t) [secs.]')
 ylabel(sprintf("x [%d bits]", N_bits))
-title("(a)", 'Units', 'normalized', 'Position', [0.5, -0.55, 0])
+title("(b)", 'Units', 'normalized', 'Position', [0.5, -0.55, 0])
 
 % --- DAC ---
 x_q = x/(L-1) * (max_level-min_level) + min_level;
@@ -258,7 +258,7 @@ set(gca,'Xtick',0 : 0.2 : 1)
 set(gca,'Ytick',0 :4 : L)
 xlabel('Time (t) [secs.]')
 ylabel(sprintf("x [%d bits]", N_bits))
-title("(a)", 'Units', 'normalized', 'Position', [0.5, -0.55, 0])
+title("(c)", 'Units', 'normalized', 'Position', [0.5, -0.55, 0])
 
 % --- DAC ---
 x_q = x/(L-1) * (max_level-min_level) + min_level;
