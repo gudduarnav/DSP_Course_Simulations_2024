@@ -105,46 +105,6 @@ saveas(gca, 'hw11_2b.eps', 'epsc');
 
 
 % ----- plot filter coeff ---------
-h = [0 0 a b a 0 0];
-n = [-2 -1 0 1 2 3 4];
-h_mag = abs(h);
-h_ph = angle(h);
-figure(3)
-
-subplot(2,1,1)
-stem(n, h_mag, 'filled')
-for i = 1:length(h)
-    if h_mag(i) <= 1e-6
-        continue
-    end
-    text(n(i), h_mag(i), sprintf(' %.2f', h_mag(i)), 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'center');
-end
-xlim([-2, 4])
-ylim([0,10])
-xlabel('Filter tap')
-ylabel('Magnitude')
-grid on
-title('(a) Magnitude ','Units', 'normalized', 'Position', [0.5, -0.35, 0]);
-
-
-subplot(2,1,2)
-stem(n, h_ph, 'filled')
-for i = 1:length(h)
-    if abs(h_mag(i)) <= 1e-6
-        continue
-    end
-    if h_ph(i) >= 0
-        text(n(i), h_ph(i), sprintf(' %.2f', h_ph(i)), 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'center');
-    else
-        text(n(i), h_ph(i), sprintf(' %.2f', h_ph(i)), 'VerticalAlignment', 'top', 'HorizontalAlignment', 'center');
-    end
-end
-xlim([-2, 4])
-ylim([-pi,pi])
-xlabel('Filter tap')
-ylabel('Phase (rads)')
-grid on
-title('(b) Phase','Units', 'normalized', 'Position', [0.5, -0.35, 0]);
 
 
 saveas(gca, 'hw11_2c.eps', 'epsc');
