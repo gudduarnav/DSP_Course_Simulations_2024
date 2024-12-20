@@ -1,0 +1,320 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.9.25)  20 DEC 2024 10:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**dsp_final_exam_practice.tex
+(./dsp_final_exam_practice.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count193
+\calc@Bcount=\count194
+\calc@Adimen=\dimen141
+\calc@Bdimen=\dimen142
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count195
+\calc@Cskip=\skip51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen143
+\ESO@tempdimb=\dimen144
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+))
+\AM@pagewidth=\dimen145
+\AM@pageheight=\dimen146
+\AM@fboxrule=\dimen147
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count196
+\AM@pagebox=\box50
+\AM@global@opts=\toks17
+\AM@pagecnt=\count197
+\AM@toc@title=\toks18
+\c@AM@survey=\count198
+\AM@templatesizebox=\box51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count199
+\l__pdf_internal_box=\box52
+)
+(./dsp_final_exam_practice.aux)
+\openout1 = `dsp_final_exam_practice.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count266
+\scratchdimen=\dimen148
+\scratchbox=\box53
+\nofMPsegments=\count267
+\nofMParguments=\count268
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count269
+\MPscratchDim=\dimen149
+\MPnumerator=\count270
+\makeMPintoPDFobject=\count271
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+<screenshot001.png, id=1, 376.40625pt x 238.64156pt>
+File: screenshot001.png Graphic file (type png)
+<use screenshot001.png>
+Package pdftex.def Info: screenshot001.png  used on input line 13.
+(pdftex.def)             Requested size: 431.25pt x 273.43427pt.
+
+Overfull \hbox (86.25pt too wide) in paragraph at lines 13--14
+ [] 
+ []
+
+[1
+
+ <./screenshot001.png>]
+<screenshot002.png, id=9, 378.66469pt x 138.5175pt>
+File: screenshot002.png Graphic file (type png)
+<use screenshot002.png>
+Package pdftex.def Info: screenshot002.png  used on input line 18.
+(pdftex.def)             Requested size: 431.25pt x 157.75517pt.
+
+Overfull \hbox (86.25pt too wide) in paragraph at lines 18--19
+ [] 
+ []
+
+[2 <./screenshot002.png>]
+<screenshot003.png, id=14, 378.66469pt x 138.5175pt>
+File: screenshot003.png Graphic file (type png)
+<use screenshot003.png>
+Package pdftex.def Info: screenshot003.png  used on input line 23.
+(pdftex.def)             Requested size: 431.25pt x 157.75517pt.
+
+Overfull \hbox (86.25pt too wide) in paragraph at lines 23--24
+ [] 
+ []
+
+[3 <./screenshot003.png>]
+<screenshot004.png, id=19, 389.20406pt x 290.58563pt>
+File: screenshot004.png Graphic file (type png)
+<use screenshot004.png>
+Package pdftex.def Info: screenshot004.png  used on input line 28.
+(pdftex.def)             Requested size: 431.25pt x 321.98631pt.
+
+Overfull \hbox (86.25pt too wide) in paragraph at lines 28--29
+ [] 
+ []
+
+[4 <./screenshot004.png>]
+<screenshot005.png, id=24, 389.20406pt x 290.58563pt>
+File: screenshot005.png Graphic file (type png)
+<use screenshot005.png>
+Package pdftex.def Info: screenshot005.png  used on input line 33.
+(pdftex.def)             Requested size: 431.25pt x 321.98631pt.
+
+Overfull \hbox (86.25pt too wide) in paragraph at lines 33--34
+ [] 
+ []
+
+<screenshot006.png, id=25, 362.10281pt x 141.52875pt>
+File: screenshot006.png Graphic file (type png)
+<use screenshot006.png>
+Package pdftex.def Info: screenshot006.png  used on input line 36.
+(pdftex.def)             Requested size: 431.25pt x 168.55734pt.
+
+Overfull \hbox (86.25pt too wide) in paragraph at lines 36--37
+ [] 
+ []
+
+[5 <./screenshot005.png> <./screenshot006.png>]
+<screenshot007.png, id=31, 773.89125pt x 127.22531pt>
+File: screenshot007.png Graphic file (type png)
+<use screenshot007.png>
+Package pdftex.def Info: screenshot007.png  used on input line 41.
+(pdftex.def)             Requested size: 431.25pt x 70.89624pt.
+
+Overfull \hbox (86.25pt too wide) in paragraph at lines 41--42
+ [] 
+ []
+
+[6 <./screenshot007.png>]
+<screenshot008.png, id=36, 772.38562pt x 294.34969pt>
+File: screenshot008.png Graphic file (type png)
+<use screenshot008.png>
+Package pdftex.def Info: screenshot008.png  used on input line 46.
+(pdftex.def)             Requested size: 431.25pt x 164.34512pt.
+
+Overfull \hbox (86.25pt too wide) in paragraph at lines 46--47
+ [] 
+ []
+
+[7 <./screenshot008.png>]
+<screenshot009.png, id=42, 774.64406pt x 347.04657pt>
+File: screenshot009.png Graphic file (type png)
+<use screenshot009.png>
+Package pdftex.def Info: screenshot009.png  used on input line 51.
+(pdftex.def)             Requested size: 431.25pt x 193.2062pt.
+
+Overfull \hbox (86.25pt too wide) in paragraph at lines 51--52
+ [] 
+ []
+
+[8 <./screenshot009.png>]
+<screenshot010.png, id=47, 719.68875pt x 255.20343pt>
+File: screenshot010.png Graphic file (type png)
+<use screenshot010.png>
+Package pdftex.def Info: screenshot010.png  used on input line 57.
+(pdftex.def)             Requested size: 431.25pt x 152.92853pt.
+
+Overfull \hbox (86.25pt too wide) in paragraph at lines 57--58
+ [] 
+ []
+
+<screenshot011.png, id=48, 758.835pt x 132.495pt>
+File: screenshot011.png Graphic file (type png)
+<use screenshot011.png>
+Package pdftex.def Info: screenshot011.png  used on input line 60.
+(pdftex.def)             Requested size: 431.25pt x 75.29851pt.
+
+Overfull \hbox (86.25pt too wide) in paragraph at lines 60--61
+ [] 
+ []
+
+[9 <./screenshot010.png> <./screenshot011.png>]
+<screenshot012.png, id=54, 786.68906pt x 362.10281pt>
+File: screenshot012.png Graphic file (type png)
+<use screenshot012.png>
+Package pdftex.def Info: screenshot012.png  used on input line 65.
+(pdftex.def)             Requested size: 431.25pt x 198.50517pt.
+
+Overfull \hbox (86.25pt too wide) in paragraph at lines 65--66
+ [] 
+ []
+
+<screenshot013.png, id=55, 792.71156pt x 468.24937pt>
+File: screenshot013.png Graphic file (type png)
+<use screenshot013.png>
+Package pdftex.def Info: screenshot013.png  used on input line 68.
+(pdftex.def)             Requested size: 431.25pt x 254.73714pt.
+
+Overfull \hbox (86.25pt too wide) in paragraph at lines 68--69
+ [] 
+ []
+
+[10 <./screenshot012.png> <./screenshot013.png>] (./dsp_final_exam_practice.aux
+) ) 
+Here is how much of TeX's memory you used:
+ 2797 strings out of 478287
+ 45352 string characters out of 5849289
+ 335535 words of memory out of 5000000
+ 21005 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 61i,5n,75p,221b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on dsp_final_exam_practice.pdf (10 pages, 2816587 bytes).
+PDF statistics:
+ 64 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+

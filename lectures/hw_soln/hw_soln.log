@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.14)  16 DEC 2024 14:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.9.25)  20 DEC 2024 10:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1361,21 +1361,60 @@ File: Homework_12.pdf Graphic file (type pdf)
 <use Homework_12.pdf, page 2>
 Package pdftex.def Info: Homework_12.pdf , page2 used on input line 540.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
-[85 <./Homework_12.pdf>] (./hw_soln.aux) ) 
+[85 <./Homework_12.pdf>]
+<screenshot116.png, id=979, 593.21625pt x 523.9575pt>
+File: screenshot116.png Graphic file (type png)
+<use screenshot116.png>
+Package pdftex.def Info: screenshot116.png  used on input line 544.
+(pdftex.def)             Requested size: 345.0pt x 304.72704pt.
+<screenshot117.png, id=980, 567.62062pt x 384.6872pt>
+File: screenshot117.png Graphic file (type png)
+<use screenshot117.png>
+Package pdftex.def Info: screenshot117.png  used on input line 548.
+(pdftex.def)             Requested size: 345.0pt x 233.81946pt.
+<screenshot118.png, id=981, 657.2053pt x 443.40656pt>
+File: screenshot118.png Graphic file (type png)
+<use screenshot118.png>
+Package pdftex.def Info: screenshot118.png  used on input line 551.
+(pdftex.def)             Requested size: 345.0pt x 232.77162pt.
+ [86 <./screenshot116.png> <./screenshot117.png>]
+<screenshot119.png, id=987, 603.0028pt x 265.74281pt>
+File: screenshot119.png Graphic file (type png)
+<use screenshot119.png>
+Package pdftex.def Info: screenshot119.png  used on input line 554.
+(pdftex.def)             Requested size: 345.0pt x 152.0386pt.
+<screenshot120.png, id=988, 613.54219pt x 235.63031pt>
+File: screenshot120.png Graphic file (type png)
+<use screenshot120.png>
+Package pdftex.def Info: screenshot120.png  used on input line 558.
+(pdftex.def)             Requested size: 244.95232pt x 94.07426pt.
+<screenshot121.png, id=989, 556.32843pt x 438.8897pt>
+File: screenshot121.png Graphic file (type png)
+<use screenshot121.png>
+Package pdftex.def Info: screenshot121.png  used on input line 561.
+(pdftex.def)             Requested size: 345.0pt x 272.17577pt.
+
+[87 <./screenshot118.png> <./screenshot119.png> <./screenshot120.png>]
+<screenshot122.png, id=996, 556.32843pt x 438.8897pt>
+File: screenshot122.png Graphic file (type png)
+<use screenshot122.png>
+Package pdftex.def Info: screenshot122.png  used on input line 564.
+(pdftex.def)             Requested size: 345.0pt x 272.17577pt.
+ [88 <./screenshot121.png> <./screenshot122.png>] (./hw_soln.aux) ) 
 Here is how much of TeX's memory you used:
- 3967 strings out of 478287
- 71631 string characters out of 5849289
- 337804 words of memory out of 5000000
- 22150 multiletter control sequences out of 15000+600000
+ 4037 strings out of 478287
+ 73178 string characters out of 5849289
+ 337802 words of memory out of 5000000
+ 22220 multiletter control sequences out of 15000+600000
  469259 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,17n,75p,205b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr10.pfb>
-Output written on hw_soln.pdf (85 pages, 11733391 bytes).
+</usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on hw_soln.pdf (88 pages, 12122339 bytes).
 PDF statistics:
- 989 PDF objects out of 1000 (max. 8388607)
- 453 compressed objects within 5 object streams
+ 1012 PDF objects out of 1200 (max. 8388607)
+ 459 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 851 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 886 words of extra memory for PDF output out of 10000 (max. 10000000)
 
