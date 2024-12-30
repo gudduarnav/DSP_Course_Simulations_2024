@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.9.25)  20 DEC 2024 10:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.9.25)  30 DEC 2024 08:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1400,21 +1400,147 @@ File: screenshot122.png Graphic file (type png)
 <use screenshot122.png>
 Package pdftex.def Info: screenshot122.png  used on input line 564.
 (pdftex.def)             Requested size: 345.0pt x 272.17577pt.
- [88 <./screenshot121.png> <./screenshot122.png>] (./hw_soln.aux) ) 
+ [88 <./screenshot121.png> <./screenshot122.png>]
+<Homework_13.pdf, id=1002, 597.55258pt x 845.07718pt>
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf>
+Package pdftex.def Info: Homework_13.pdf  used on input line 568.
+(pdftex.def)             Requested size: 597.55112pt x 845.07512pt.
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf>
+Package pdftex.def Info: Homework_13.pdf  used on input line 568.
+(pdftex.def)             Requested size: 597.55112pt x 845.07512pt.
+<Homework_13.pdf, id=1005, page=1, 597.55258pt x 845.07718pt>
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 1>
+Package pdftex.def Info: Homework_13.pdf , page1 used on input line 568.
+(pdftex.def)             Requested size: 597.55112pt x 845.07512pt.
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 1>
+Package pdftex.def Info: Homework_13.pdf , page1 used on input line 568.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 1>
+Package pdftex.def Info: Homework_13.pdf , page1 used on input line 568.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 1>
+Package pdftex.def Info: Homework_13.pdf , page1 used on input line 568.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 1>
+Package pdftex.def Info: Homework_13.pdf , page1 used on input line 568.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+ [89 <./Homework_13.pdf>]
+<Homework_13.pdf, id=1037, page=2, 597.55258pt x 845.07718pt>
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 2>
+Package pdftex.def Info: Homework_13.pdf , page2 used on input line 568.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 2>
+Package pdftex.def Info: Homework_13.pdf , page2 used on input line 568.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 2>
+Package pdftex.def Info: Homework_13.pdf , page2 used on input line 568.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+ [90 <./Homework_13.pdf>]
+<screenshot123.png, id=1045, 596.98032pt x 411.78844pt>
+File: screenshot123.png Graphic file (type png)
+<use screenshot123.png>
+Package pdftex.def Info: screenshot123.png  used on input line 570.
+(pdftex.def)             Requested size: 345.0pt x 237.97662pt.
+<screenshot124.png, id=1046, 596.98032pt x 411.78844pt>
+File: screenshot124.png Graphic file (type png)
+<use screenshot124.png>
+Package pdftex.def Info: screenshot124.png  used on input line 573.
+(pdftex.def)             Requested size: 345.0pt x 237.97662pt.
+<screenshot125.png, id=1047, 664.73344pt x 389.95688pt>
+File: screenshot125.png Graphic file (type png)
+<use screenshot125.png>
+Package pdftex.def Info: screenshot125.png  used on input line 576.
+(pdftex.def)             Requested size: 345.0pt x 202.39197pt.
+ [91 <./screenshot123.png> <./screenshot124.png>]
+<screenshot126.png, id=1054, 494.59781pt x 449.42906pt>
+File: screenshot126.png Graphic file (type png)
+<use screenshot126.png>
+Package pdftex.def Info: screenshot126.png  used on input line 579.
+(pdftex.def)             Requested size: 345.0pt x 313.4941pt.
+<screenshot127.png, id=1055, 493.0922pt x 369.63094pt>
+File: screenshot127.png Graphic file (type png)
+<use screenshot127.png>
+Package pdftex.def Info: screenshot127.png  used on input line 582.
+(pdftex.def)             Requested size: 345.0pt x 258.63272pt.
+ [92 <./screenshot125.png> <./screenshot126.png>]
+<screenshot128.png, id=1061, 517.935pt x 92.59593pt>
+File: screenshot128.png Graphic file (type png)
+<use screenshot128.png>
+Package pdftex.def Info: screenshot128.png  used on input line 585.
+(pdftex.def)             Requested size: 345.0pt x 61.68147pt.
+<screenshot129.png, id=1062, 560.8453pt x 534.49687pt>
+File: screenshot129.png Graphic file (type png)
+<use screenshot129.png>
+Package pdftex.def Info: screenshot129.png  used on input line 588.
+(pdftex.def)             Requested size: 244.95232pt x 233.44217pt.
+<screenshot130.png, id=1063, 557.83406pt x 553.31718pt>
+File: screenshot130.png Graphic file (type png)
+<use screenshot130.png>
+Package pdftex.def Info: screenshot130.png  used on input line 592.
+(pdftex.def)             Requested size: 345.0pt x 342.21725pt.
+ [93 <./screenshot127.png> <./screenshot128.png> <./screenshot129.png>]
+<screenshot131.png, id=1070, 315.42844pt x 171.64125pt>
+File: screenshot131.png Graphic file (type png)
+<use screenshot131.png>
+Package pdftex.def Info: screenshot131.png  used on input line 595.
+(pdftex.def)             Requested size: 345.0pt x 187.74522pt.
+ [94 <./screenshot130.png> <./screenshot131.png>]
+<Homework_14.pdf, id=1076, 597.55246pt x 845.07718pt>
+File: Homework_14.pdf Graphic file (type pdf)
+<use Homework_14.pdf>
+Package pdftex.def Info: Homework_14.pdf  used on input line 600.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: Homework_14.pdf Graphic file (type pdf)
+<use Homework_14.pdf>
+Package pdftex.def Info: Homework_14.pdf  used on input line 600.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+<Homework_14.pdf, id=1079, page=1, 597.55246pt x 845.07718pt>
+File: Homework_14.pdf Graphic file (type pdf)
+<use Homework_14.pdf, page 1>
+Package pdftex.def Info: Homework_14.pdf , page1 used on input line 600.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: Homework_14.pdf Graphic file (type pdf)
+<use Homework_14.pdf, page 1>
+Package pdftex.def Info: Homework_14.pdf , page1 used on input line 600.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: Homework_14.pdf Graphic file (type pdf)
+<use Homework_14.pdf, page 1>
+Package pdftex.def Info: Homework_14.pdf , page1 used on input line 600.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: Homework_14.pdf Graphic file (type pdf)
+<use Homework_14.pdf, page 1>
+Package pdftex.def Info: Homework_14.pdf , page1 used on input line 600.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: Homework_14.pdf Graphic file (type pdf)
+<use Homework_14.pdf, page 1>
+Package pdftex.def Info: Homework_14.pdf , page1 used on input line 600.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+
+[95 <./Homework_14.pdf>] (./hw_soln.aux) ) 
 Here is how much of TeX's memory you used:
- 4037 strings out of 478287
- 73178 string characters out of 5849289
- 337802 words of memory out of 5000000
- 22220 multiletter control sequences out of 15000+600000
+ 4156 strings out of 478287
+ 75908 string characters out of 5849289
+ 338316 words of memory out of 5000000
+ 22335 multiletter control sequences out of 15000+600000
  469259 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,17n,75p,205b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on hw_soln.pdf (88 pages, 12122339 bytes).
+</usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr10.pfb>
+Output written on hw_soln.pdf (95 pages, 13667487 bytes).
 PDF statistics:
- 1012 PDF objects out of 1200 (max. 8388607)
- 459 compressed objects within 5 object streams
+ 1128 PDF objects out of 1200 (max. 8388607)
+ 518 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
- 886 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 976 words of extra memory for PDF output out of 10000 (max. 10000000)
 

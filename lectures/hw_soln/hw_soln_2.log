@@ -1,0 +1,584 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.9.25)  30 DEC 2024 08:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**hw_soln_2.tex
+(./hw_soln_2.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count193
+\calc@Bcount=\count194
+\calc@Adimen=\dimen141
+\calc@Bdimen=\dimen142
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count195
+\calc@Cskip=\skip51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen143
+\ESO@tempdimb=\dimen144
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+))
+\AM@pagewidth=\dimen145
+\AM@pageheight=\dimen146
+\AM@fboxrule=\dimen147
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count196
+\AM@pagebox=\box50
+\AM@global@opts=\toks17
+\AM@pagecnt=\count197
+\AM@toc@title=\toks18
+\c@AM@survey=\count198
+\AM@templatesizebox=\box51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count199
+\l__pdf_internal_box=\box52
+)
+(./hw_soln_2.aux)
+\openout1 = `hw_soln_2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count266
+\scratchdimen=\dimen148
+\scratchbox=\box53
+\nofMPsegments=\count267
+\nofMParguments=\count268
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count269
+\MPscratchDim=\dimen149
+\MPnumerator=\count270
+\makeMPintoPDFobject=\count271
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+<Homework_10.pdf, id=1, 597.55258pt x 845.07718pt>
+File: Homework_10.pdf Graphic file (type pdf)
+<use Homework_10.pdf>
+Package pdftex.def Info: Homework_10.pdf  used on input line 11.
+(pdftex.def)             Requested size: 597.55112pt x 845.07512pt.
+File: Homework_10.pdf Graphic file (type pdf)
+<use Homework_10.pdf>
+Package pdftex.def Info: Homework_10.pdf  used on input line 11.
+(pdftex.def)             Requested size: 597.55112pt x 845.07512pt.
+<Homework_10.pdf, id=4, page=1, 597.55258pt x 845.07718pt>
+File: Homework_10.pdf Graphic file (type pdf)
+<use Homework_10.pdf, page 1>
+Package pdftex.def Info: Homework_10.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 597.55112pt x 845.07512pt.
+File: Homework_10.pdf Graphic file (type pdf)
+<use Homework_10.pdf, page 1>
+Package pdftex.def Info: Homework_10.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_10.pdf Graphic file (type pdf)
+<use Homework_10.pdf, page 1>
+Package pdftex.def Info: Homework_10.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_10.pdf Graphic file (type pdf)
+<use Homework_10.pdf, page 1>
+Package pdftex.def Info: Homework_10.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_10.pdf Graphic file (type pdf)
+<use Homework_10.pdf, page 1>
+Package pdftex.def Info: Homework_10.pdf , page1 used on input line 11.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+ [1
+
+ <./Homework_10.pdf>]
+<Homework_10.pdf, id=42, page=2, 597.55258pt x 845.07718pt>
+File: Homework_10.pdf Graphic file (type pdf)
+<use Homework_10.pdf, page 2>
+Package pdftex.def Info: Homework_10.pdf , page2 used on input line 11.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_10.pdf Graphic file (type pdf)
+<use Homework_10.pdf, page 2>
+Package pdftex.def Info: Homework_10.pdf , page2 used on input line 11.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_10.pdf Graphic file (type pdf)
+<use Homework_10.pdf, page 2>
+Package pdftex.def Info: Homework_10.pdf , page2 used on input line 11.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+ [2 <./Homework_10.pdf>]
+<screenshot098.png, id=56, 536.75531pt x 339.51843pt>
+File: screenshot098.png Graphic file (type png)
+<use screenshot098.png>
+Package pdftex.def Info: screenshot098.png  used on input line 14.
+(pdftex.def)             Requested size: 345.0pt x 218.22356pt.
+<screenshot099.png, id=58, 605.26125pt x 536.75531pt>
+File: screenshot099.png Graphic file (type png)
+<use screenshot099.png>
+Package pdftex.def Info: screenshot099.png  used on input line 19.
+(pdftex.def)             Requested size: 345.0pt x 305.95369pt.
+<screenshot100.png, id=59, 569.12625pt x 369.63094pt>
+File: screenshot100.png Graphic file (type png)
+<use screenshot100.png>
+Package pdftex.def Info: screenshot100.png  used on input line 24.
+(pdftex.def)             Requested size: 345.0pt x 224.07579pt.
+ [3{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./screenshot098.png> <.
+/screenshot099.png>]
+<screenshot101.png, id=66, 567.62062pt x 480.29437pt>
+File: screenshot101.png Graphic file (type png)
+<use screenshot101.png>
+Package pdftex.def Info: screenshot101.png  used on input line 29.
+(pdftex.def)             Requested size: 345.0pt x 291.93112pt.
+<screenshot102.png, id=67, 567.62062pt x 480.29437pt>
+File: screenshot102.png Graphic file (type png)
+<use screenshot102.png>
+Package pdftex.def Info: screenshot102.png  used on input line 32.
+(pdftex.def)             Requested size: 345.0pt x 291.93112pt.
+ [4 <./screenshot100.png> <./screenshot101.png>]
+<screenshot103.png, id=73, 560.8453pt x 283.0575pt>
+File: screenshot103.png Graphic file (type png)
+<use screenshot103.png>
+Package pdftex.def Info: screenshot103.png  used on input line 38.
+(pdftex.def)             Requested size: 345.0pt x 174.12035pt.
+<screenshot104.png, id=74, 520.94624pt x 237.88875pt>
+File: screenshot104.png Graphic file (type png)
+<use screenshot104.png>
+Package pdftex.def Info: screenshot104.png  used on input line 42.
+(pdftex.def)             Requested size: 345.0pt x 157.54427pt.
+ [5 <./screenshot102.png> <./screenshot103.png>]
+<screenshot105.png, id=80, 533.74406pt x 464.4853pt>
+File: screenshot105.png Graphic file (type png)
+<use screenshot105.png>
+Package pdftex.def Info: screenshot105.png  used on input line 47.
+(pdftex.def)             Requested size: 345.0pt x 300.23923pt.
+<screenshot106.png, id=81, 523.20468pt x 528.47438pt>
+File: screenshot106.png Graphic file (type png)
+<use screenshot106.png>
+Package pdftex.def Info: screenshot106.png  used on input line 51.
+(pdftex.def)             Requested size: 345.0pt x 348.47968pt.
+ [6 <./screenshot104.png> <./screenshot105.png>] [7 <./screenshot106.png>]
+<Homework_11.pdf, id=92, 597.55246pt x 845.07718pt>
+File: Homework_11.pdf Graphic file (type pdf)
+<use Homework_11.pdf>
+Package pdftex.def Info: Homework_11.pdf  used on input line 59.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: Homework_11.pdf Graphic file (type pdf)
+<use Homework_11.pdf>
+Package pdftex.def Info: Homework_11.pdf  used on input line 59.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+<Homework_11.pdf, id=95, page=1, 597.55246pt x 845.07718pt>
+File: Homework_11.pdf Graphic file (type pdf)
+<use Homework_11.pdf, page 1>
+Package pdftex.def Info: Homework_11.pdf , page1 used on input line 59.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: Homework_11.pdf Graphic file (type pdf)
+<use Homework_11.pdf, page 1>
+Package pdftex.def Info: Homework_11.pdf , page1 used on input line 59.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: Homework_11.pdf Graphic file (type pdf)
+<use Homework_11.pdf, page 1>
+Package pdftex.def Info: Homework_11.pdf , page1 used on input line 59.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: Homework_11.pdf Graphic file (type pdf)
+<use Homework_11.pdf, page 1>
+Package pdftex.def Info: Homework_11.pdf , page1 used on input line 59.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: Homework_11.pdf Graphic file (type pdf)
+<use Homework_11.pdf, page 1>
+Package pdftex.def Info: Homework_11.pdf , page1 used on input line 59.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+ [8 <./Homework_11.pdf>]
+<screenshot107.png, id=126, 592.46344pt x 499.11469pt>
+File: screenshot107.png Graphic file (type png)
+<use screenshot107.png>
+Package pdftex.def Info: screenshot107.png  used on input line 62.
+(pdftex.def)             Requested size: 345.0pt x 290.65193pt.
+<screenshot108.png, id=127, 443.40656pt x 284.56313pt>
+File: screenshot108.png Graphic file (type png)
+<use screenshot108.png>
+Package pdftex.def Info: screenshot108.png  used on input line 67.
+(pdftex.def)             Requested size: 345.0pt x 221.42426pt.
+<screenshot109.png, id=128, 663.98062pt x 516.42938pt>
+File: screenshot109.png Graphic file (type png)
+<use screenshot109.png>
+Package pdftex.def Info: screenshot109.png  used on input line 71.
+(pdftex.def)             Requested size: 345.0pt x 268.33206pt.
+ [9 <./screenshot107.png> <./screenshot108.png>]
+<screenshot112.png, id=134, 672.26157pt x 405.01312pt>
+File: screenshot112.png Graphic file (type png)
+<use screenshot112.png>
+Package pdftex.def Info: screenshot112.png  used on input line 75.
+(pdftex.def)             Requested size: 345.0pt x 207.85175pt.
+<screenshot110.png, id=135, 669.2503pt x 386.19281pt>
+File: screenshot110.png Graphic file (type png)
+<use screenshot110.png>
+Package pdftex.def Info: screenshot110.png  used on input line 80.
+(pdftex.def)             Requested size: 345.0pt x 199.08891pt.
+ [10 <./screenshot109.png> <./screenshot112.png>]
+<screenshot111.png, id=141, 672.26157pt x 405.01312pt>
+File: screenshot111.png Graphic file (type png)
+<use screenshot111.png>
+Package pdftex.def Info: screenshot111.png  used on input line 86.
+(pdftex.def)             Requested size: 345.0pt x 207.85175pt.
+<screenshot113.png, id=142, 672.26157pt x 405.01312pt>
+File: screenshot113.png Graphic file (type png)
+<use screenshot113.png>
+Package pdftex.def Info: screenshot113.png  used on input line 92.
+(pdftex.def)             Requested size: 345.0pt x 207.85175pt.
+ [11 <./screenshot110.png> <./screenshot111.png>]
+<screenshot114.png, id=148, 663.22781pt x 443.40656pt>
+File: screenshot114.png Graphic file (type png)
+<use screenshot114.png>
+Package pdftex.def Info: screenshot114.png  used on input line 98.
+(pdftex.def)             Requested size: 345.0pt x 230.65392pt.
+<screenshot115.png, id=149, 663.22781pt x 443.40656pt>
+File: screenshot115.png Graphic file (type png)
+<use screenshot115.png>
+Package pdftex.def Info: screenshot115.png  used on input line 103.
+(pdftex.def)             Requested size: 345.0pt x 230.65392pt.
+
+[12 <./screenshot113.png> <./screenshot114.png>] [13 <./screenshot115.png>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Homework_12.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<Homework_12.pdf, id=160, 597.55246pt x 845.07718pt>
+File: Homework_12.pdf Graphic file (type pdf)
+<use Homework_12.pdf>
+Package pdftex.def Info: Homework_12.pdf  used on input line 108.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Homework_12.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+File: Homework_12.pdf Graphic file (type pdf)
+<use Homework_12.pdf>
+Package pdftex.def Info: Homework_12.pdf  used on input line 108.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Homework_12.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Homework_12.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<Homework_12.pdf, id=163, page=1, 597.55246pt x 845.07718pt>
+File: Homework_12.pdf Graphic file (type pdf)
+<use Homework_12.pdf, page 1>
+Package pdftex.def Info: Homework_12.pdf , page1 used on input line 108.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: Homework_12.pdf Graphic file (type pdf)
+<use Homework_12.pdf, page 1>
+Package pdftex.def Info: Homework_12.pdf , page1 used on input line 108.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: Homework_12.pdf Graphic file (type pdf)
+<use Homework_12.pdf, page 1>
+Package pdftex.def Info: Homework_12.pdf , page1 used on input line 108.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: Homework_12.pdf Graphic file (type pdf)
+<use Homework_12.pdf, page 1>
+Package pdftex.def Info: Homework_12.pdf , page1 used on input line 108.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: Homework_12.pdf Graphic file (type pdf)
+<use Homework_12.pdf, page 1>
+Package pdftex.def Info: Homework_12.pdf , page1 used on input line 108.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+[14 <./Homework_12.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./Homework_12.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<Homework_12.pdf, id=199, page=2, 597.55246pt x 845.07718pt>
+File: Homework_12.pdf Graphic file (type pdf)
+<use Homework_12.pdf, page 2>
+Package pdftex.def Info: Homework_12.pdf , page2 used on input line 108.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: Homework_12.pdf Graphic file (type pdf)
+<use Homework_12.pdf, page 2>
+Package pdftex.def Info: Homework_12.pdf , page2 used on input line 108.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: Homework_12.pdf Graphic file (type pdf)
+<use Homework_12.pdf, page 2>
+Package pdftex.def Info: Homework_12.pdf , page2 used on input line 108.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+[15 <./Homework_12.pdf>]
+<screenshot116.png, id=204, 593.21625pt x 523.9575pt>
+File: screenshot116.png Graphic file (type png)
+<use screenshot116.png>
+Package pdftex.def Info: screenshot116.png  used on input line 112.
+(pdftex.def)             Requested size: 345.0pt x 304.72704pt.
+<screenshot117.png, id=205, 567.62062pt x 384.6872pt>
+File: screenshot117.png Graphic file (type png)
+<use screenshot117.png>
+Package pdftex.def Info: screenshot117.png  used on input line 116.
+(pdftex.def)             Requested size: 345.0pt x 233.81946pt.
+<screenshot118.png, id=206, 657.2053pt x 443.40656pt>
+File: screenshot118.png Graphic file (type png)
+<use screenshot118.png>
+Package pdftex.def Info: screenshot118.png  used on input line 119.
+(pdftex.def)             Requested size: 345.0pt x 232.77162pt.
+ [16 <./screenshot116.png> <./screenshot117.png>]
+<screenshot119.png, id=212, 603.0028pt x 265.74281pt>
+File: screenshot119.png Graphic file (type png)
+<use screenshot119.png>
+Package pdftex.def Info: screenshot119.png  used on input line 122.
+(pdftex.def)             Requested size: 345.0pt x 152.0386pt.
+<screenshot120.png, id=213, 613.54219pt x 235.63031pt>
+File: screenshot120.png Graphic file (type png)
+<use screenshot120.png>
+Package pdftex.def Info: screenshot120.png  used on input line 126.
+(pdftex.def)             Requested size: 244.95232pt x 94.07426pt.
+<screenshot121.png, id=214, 556.32843pt x 438.8897pt>
+File: screenshot121.png Graphic file (type png)
+<use screenshot121.png>
+Package pdftex.def Info: screenshot121.png  used on input line 129.
+(pdftex.def)             Requested size: 345.0pt x 272.17577pt.
+
+[17 <./screenshot118.png> <./screenshot119.png> <./screenshot120.png>]
+<screenshot122.png, id=221, 556.32843pt x 438.8897pt>
+File: screenshot122.png Graphic file (type png)
+<use screenshot122.png>
+Package pdftex.def Info: screenshot122.png  used on input line 132.
+(pdftex.def)             Requested size: 345.0pt x 272.17577pt.
+ [18 <./screenshot121.png> <./screenshot122.png>]
+<Homework_13.pdf, id=228, 597.55258pt x 845.07718pt>
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf>
+Package pdftex.def Info: Homework_13.pdf  used on input line 136.
+(pdftex.def)             Requested size: 597.55112pt x 845.07512pt.
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf>
+Package pdftex.def Info: Homework_13.pdf  used on input line 136.
+(pdftex.def)             Requested size: 597.55112pt x 845.07512pt.
+<Homework_13.pdf, id=231, page=1, 597.55258pt x 845.07718pt>
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 1>
+Package pdftex.def Info: Homework_13.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 597.55112pt x 845.07512pt.
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 1>
+Package pdftex.def Info: Homework_13.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 1>
+Package pdftex.def Info: Homework_13.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 1>
+Package pdftex.def Info: Homework_13.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 1>
+Package pdftex.def Info: Homework_13.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+ [19 <./Homework_13.pdf>]
+<Homework_13.pdf, id=264, page=2, 597.55258pt x 845.07718pt>
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 2>
+Package pdftex.def Info: Homework_13.pdf , page2 used on input line 136.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 2>
+Package pdftex.def Info: Homework_13.pdf , page2 used on input line 136.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+File: Homework_13.pdf Graphic file (type pdf)
+<use Homework_13.pdf, page 2>
+Package pdftex.def Info: Homework_13.pdf , page2 used on input line 136.
+(pdftex.def)             Requested size: 597.57846pt x 845.1138pt.
+ [20 <./Homework_13.pdf>]
+<screenshot123.png, id=272, 596.98032pt x 411.78844pt>
+File: screenshot123.png Graphic file (type png)
+<use screenshot123.png>
+Package pdftex.def Info: screenshot123.png  used on input line 138.
+(pdftex.def)             Requested size: 345.0pt x 237.97662pt.
+<screenshot124.png, id=273, 596.98032pt x 411.78844pt>
+File: screenshot124.png Graphic file (type png)
+<use screenshot124.png>
+Package pdftex.def Info: screenshot124.png  used on input line 141.
+(pdftex.def)             Requested size: 345.0pt x 237.97662pt.
+<screenshot125.png, id=274, 664.73344pt x 389.95688pt>
+File: screenshot125.png Graphic file (type png)
+<use screenshot125.png>
+Package pdftex.def Info: screenshot125.png  used on input line 144.
+(pdftex.def)             Requested size: 345.0pt x 202.39197pt.
+ [21 <./screenshot123.png> <./screenshot124.png>]
+<screenshot126.png, id=280, 494.59781pt x 449.42906pt>
+File: screenshot126.png Graphic file (type png)
+<use screenshot126.png>
+Package pdftex.def Info: screenshot126.png  used on input line 147.
+(pdftex.def)             Requested size: 345.0pt x 313.4941pt.
+<screenshot127.png, id=281, 493.0922pt x 369.63094pt>
+File: screenshot127.png Graphic file (type png)
+<use screenshot127.png>
+Package pdftex.def Info: screenshot127.png  used on input line 150.
+(pdftex.def)             Requested size: 345.0pt x 258.63272pt.
+ [22 <./screenshot125.png> <./screenshot126.png>]
+<screenshot128.png, id=287, 517.935pt x 92.59593pt>
+File: screenshot128.png Graphic file (type png)
+<use screenshot128.png>
+Package pdftex.def Info: screenshot128.png  used on input line 153.
+(pdftex.def)             Requested size: 345.0pt x 61.68147pt.
+<screenshot129.png, id=288, 560.8453pt x 534.49687pt>
+File: screenshot129.png Graphic file (type png)
+<use screenshot129.png>
+Package pdftex.def Info: screenshot129.png  used on input line 156.
+(pdftex.def)             Requested size: 244.95232pt x 233.44217pt.
+<screenshot130.png, id=289, 557.83406pt x 553.31718pt>
+File: screenshot130.png Graphic file (type png)
+<use screenshot130.png>
+Package pdftex.def Info: screenshot130.png  used on input line 160.
+(pdftex.def)             Requested size: 345.0pt x 342.21725pt.
+ [23 <./screenshot127.png> <./screenshot128.png> <./screenshot129.png>]
+<screenshot131.png, id=296, 315.42844pt x 171.64125pt>
+File: screenshot131.png Graphic file (type png)
+<use screenshot131.png>
+Package pdftex.def Info: screenshot131.png  used on input line 163.
+(pdftex.def)             Requested size: 345.0pt x 187.74522pt.
+ [24 <./screenshot130.png> <./screenshot131.png>]
+<Homework_14.pdf, id=302, 597.55246pt x 845.07718pt>
+File: Homework_14.pdf Graphic file (type pdf)
+<use Homework_14.pdf>
+Package pdftex.def Info: Homework_14.pdf  used on input line 168.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: Homework_14.pdf Graphic file (type pdf)
+<use Homework_14.pdf>
+Package pdftex.def Info: Homework_14.pdf  used on input line 168.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+<Homework_14.pdf, id=305, page=1, 597.55246pt x 845.07718pt>
+File: Homework_14.pdf Graphic file (type pdf)
+<use Homework_14.pdf, page 1>
+Package pdftex.def Info: Homework_14.pdf , page1 used on input line 168.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: Homework_14.pdf Graphic file (type pdf)
+<use Homework_14.pdf, page 1>
+Package pdftex.def Info: Homework_14.pdf , page1 used on input line 168.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: Homework_14.pdf Graphic file (type pdf)
+<use Homework_14.pdf, page 1>
+Package pdftex.def Info: Homework_14.pdf , page1 used on input line 168.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: Homework_14.pdf Graphic file (type pdf)
+<use Homework_14.pdf, page 1>
+Package pdftex.def Info: Homework_14.pdf , page1 used on input line 168.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: Homework_14.pdf Graphic file (type pdf)
+<use Homework_14.pdf, page 1>
+Package pdftex.def Info: Homework_14.pdf , page1 used on input line 168.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+
+[25 <./Homework_14.pdf>] (./hw_soln_2.aux) ) 
+Here is how much of TeX's memory you used:
+ 3082 strings out of 478287
+ 51750 string characters out of 5849289
+ 336521 words of memory out of 5000000
+ 21279 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 61i,17n,75p,207b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on hw_soln_2.pdf (25 pages, 4139240 bytes).
+PDF statistics:
+ 351 PDF objects out of 1000 (max. 8388607)
+ 170 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 286 words of extra memory for PDF output out of 10000 (max. 10000000)
+
